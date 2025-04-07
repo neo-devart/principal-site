@@ -152,10 +152,14 @@ strong:hover{
     padding: 0.5rem;
 }
 
-/*.img-map{
-    border-radius: 40%;
-    width: 100%;
-}*/
+.img-map{
+    border-radius: 30%;
+    width: 80%;
+}
+
+.legenda {
+    color: #cbdad5;
+}
 
 .second{
     background-color: var(--dark2);
